@@ -1,2 +1,2 @@
+features: ["MDVP:Fo(Hz)", "PPE"]
 path: "parkinsons_model.joblib"
-selected_features: ["MDVP:Fo(Hz)", "PPE"]
